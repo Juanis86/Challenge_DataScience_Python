@@ -10,7 +10,7 @@ el módulo virtualenv. Los pasos a seguir son los siguientes:
 2- En el terminal, nos posicionamos en la carpeta en donde nos interesa ubicar el entorno
 y escribimos: virtulenv -nombre- 
 3- A continuación, lo activamos mediante el comando /venv/Scripts/activate (en el caso de linux será source /venv/Scripts/activate)
-4- Fnialmente, instalamos los paquetes necesarios. Estos se encuentran en el archivo requirements.txt y se instalan
+4- Finalmente, instalamos los paquetes necesarios. Estos se encuentran en el archivo requirements.txt y se instalan
 mediante el comando pip install -r requirements.txt
 
 
