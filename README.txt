@@ -1,5 +1,5 @@
 Hola!
-A continuación, encontraras las indicaciones necesarias para el correcto funcionamieno del programa.
+A continuación, encontraras las indicaciones necesarias para el correcto funcionamiento del programa.
 
 
 Entorno:
@@ -19,7 +19,7 @@ Claves y credenciales:
     Abre el archivo .env y completa los datos de acceso a la base de datos postgresql
 
 Creación de las tablas en la base de datos pgsql:
-1- Ejecute Execute_sql_Script. Ese archivo ejecutará el archivo ScriptSql_create_tables.sql y creará las tablas necesarias. Al final del archivoDB.sql
+1- Ejecute Execute_sql_Script. Ese archivo ejecutará el archivo ScriptSql_create_tables.sql y creará las tablas necesarias. Al final del archivo ScriptSql_create_tables
     se encuentra un 'template' que podrá usar si quiere agregar nuevas tablas
 
 Settings:
@@ -27,7 +27,7 @@ Settings:
     1- Explorando las bases de datos disponibles y eligiendo durante la ejecución cuales trabajar. Esto se hace, entrando al archivo settings.py
         y dejando una lista vacía en DB_DEFAULT
     2- Seteando en settings los nombres de las bases de datos que se quieren descargar. Esto es hace agregando los nombres en forma de lista de strings
-        ['database_a', 3database_b'] a la variable DB_DEFALT. El programa corrrer'a de principio a fin sin interrupcion
+        ['database_a', database_b'] a la variable DB_DEFAULT. El programa corrrerá de principio a fin sin interrupcion
 
 3- Tabla total:
     Como entre las funciones del programa está la de hacer una tabla general a partir de las tablas descargadas, 
