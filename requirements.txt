@@ -1,0 +1,12 @@
+
+ requests
+ sqlalchemy  
+ sqlalchemy.
+ sqlalchemy_utils  
+ io
+ datetime
+ collections  
+ urllib
+ bs4  
+ psycopg2
+ decouple  
